@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-ENTRYPOINT ["sh", "-c", "echo '> docker-test-project v0.1.1'"]
+ENTRYPOINT ["sh", "-c", "echo '> docker-test-project v0.2'"]
